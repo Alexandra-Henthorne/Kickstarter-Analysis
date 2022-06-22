@@ -21,10 +21,16 @@ The challenge came when doing the outcomes sheet. I was trying to find a way to 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+- The first conclusion that I can draw from the data is that the most output of media categories seemed to be during the summertime and because of that those months also had the highest succesfull numbers. I am assuming because most people have more time during the summer to get out , especially for those that are in school or simply trying to enjoy the nice weather. 
 
 - What can you conclude about the Outcomes based on Goals?
+-  What I can see by looking at the data and graph is that when we get around the 15000 to 19999 range  the data becomes even and starts to level off. But then after that the amuount of failed goals begins to increase more than than the amount of  goals that are successfull. There are two outliers in the 35000 to 39999 and the 40000 to 44999 range brining success rates higher than any other range but I would conclude that if  you want to meet a steady goal possibly all year long staying in the 15000 to 19999 and below range will give you the highest success rate. 
 
 - What are some limitations of this dataset?
+- The limitations are seeing the data as a whole and not breaking it down any further and going in by country/area because geo placement does make a difference.
 
 - What are some other possible tables and/or graphs that we could create?
+- Another table/chart we could look into is the average donation  compared to the goal and success/failure rate.  For instance  when the goal was lower were higher donations made and vice versa? Another table to look at would be the types of media and their success/failure during a year. For instance do plays do better in the winter months or television . 
+ 
+
 
